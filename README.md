@@ -15,7 +15,7 @@ To run execute following commands and press 'q' to exit the video display.
 
 ```bash
 # For Task One
-python your_script.py -d video_file.mp4
+python movingObj.py -d video_file.mp4
 
 # For Task Two
-python your_script.py -b video_file.mp4
+python movingObj.py -b video_file.mp4
