@@ -15,7 +15,7 @@ To run execute following commands and press 'q' to exit the video display.
 
 ```bash
 # For Task One
-python movingObj.py -d video_file.mp4
+python movingObj.py -d carpark_f6_compressed.wm
 
 # For Task Two
-python movingObj.py -b video_file.mp4
+python movingObj.py -b carpark_f6_compressed.wm
