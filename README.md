@@ -10,8 +10,8 @@ This function performs moving object detection in a video using background subtr
 This function performs object detection and tracking of pedestrians in a video using a pre-trained model. It loads the COCO class names and initializes parameters. The code processes each frame in the video, performing object detection using a deep neural network (DNN) model pre-trained on the COCO dataset. It calculates the distance to detected persons, annotates frames with bounding boxes, class names, and distances, and displays the output in a 2x2 grid. The code effectively tracks and displays information about the three closest detected persons.
 
 ## Sample Outputs:
-![Click here to see sample output of task one](task_one_output.mp4) <br>
-![Click here to see sample output of task two](task_two_output.mp4)
+![Output of task one](task_one_output.mp4) <br>
+![Output of task two](task_two_output.mp4)
 
 
 ## Instructions:
